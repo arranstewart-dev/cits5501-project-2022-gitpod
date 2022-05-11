@@ -1,0 +1,12 @@
+
+
+tasks:
+- command: make build-test
+  name: compile code
+
+vscode:
+  extensions:
+    - vscjava.vscode-java-debug
+    - vscjava.vscode-java-test
+
+
